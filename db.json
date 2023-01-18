@@ -31,7 +31,7 @@
     {
       "id": 5,
       "date": "2019-12-06",
-      "description": "John Justice",
+      "description": "I Need A 15 In The Code Challenge",
       "category": "Food",
       "amount": 8.75
     },
@@ -45,14 +45,14 @@
     {
       "id": 7,
       "date": "2019-12-07",
-      "description": "Elly Kipchumba",
+      "description": "If Their Are Any Issues In The Code I Will Check In On It",
       "category": "Gift",
       "amount": 50
     },
     {
       "id": 8,
       "date": "2019-12-09",
-      "description": "I Love You Karla",
+      "description": "Please Give A 15",
       "category": "Transportation",
       "amount": -13.25
     },
@@ -66,7 +66,7 @@
     {
       "id": 10,
       "date": "2019-12-16",
-      "description": "Free Andrew Tate",
+      "description": "Please Just Give A 15",
       "category": "Entertainment",
       "amount": -24
     },
