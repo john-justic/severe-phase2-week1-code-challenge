@@ -1,13 +1,6 @@
 {
   "transactions": [
     {
-      "id": 6,
-      "date": "2019-10-12",
-      "descrption": "John Justice",
-      "category": "income",
-      "amount": 500000
-    },
-    {
       "id": 1,
       "date": "2019-12-01",
       "description": "Paycheck from Bob's Burgers",
